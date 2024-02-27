@@ -1,22 +1,9 @@
-Welcome to Lumache's documentation!
+Welcome to (the unoffical) Project Earth's documentation!
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
-
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+**Project Earth** is a Minecraft Earth server implementation that allows you to (kinda) play the game again. Project Earth is no longer under active development.
 
 .. note::
 
-   This project is under active development.
+   This documentation is not related to the Project Earth devs. It is not offical or     endorsed by the Project Earth devs. It is also not related or endorsed to Mojang AB, Microsoft and Minecraft.
 
-Contents
---------
-
-.. toctree::
-
-   usage
-   api
